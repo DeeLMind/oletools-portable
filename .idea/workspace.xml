@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179806ea-9734-43b1-ad04-fd28cfec9d78" name="Default" comment="" />
+    <list default="true" id="179806ea-9734-43b1-ad04-fd28cfec9d78" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+      <change beforePath="$PROJECT_DIR$/oletools/olevba.py" afterPath="$PROJECT_DIR$/oletools/olevba.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="olefile.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oletools/thirdparty/olefile/olefile.py">
+      <file leaf-file-name="olevba.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oletools/olevba.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1725">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="627">
+              <caret line="1898" column="7" lean-forward="true" selection-start-line="1898" selection-start-column="7" selection-end-line="1898" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -26,9 +30,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oletools/olevba.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="740" />
-    <option name="y" value="84" />
+    <option name="x" value="802" />
+    <option name="y" value="79" />
     <option name="width" value="1100" />
     <option name="height" value="886" />
   </component>
@@ -59,19 +70,6 @@
               <item name="oletools" type="b2602c69:ProjectViewProjectNode" />
               <item name="oletools" type="462c0819:PsiDirectoryNode" />
               <item name="oletools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oletools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oletools" type="462c0819:PsiDirectoryNode" />
-              <item name="oletools" type="462c0819:PsiDirectoryNode" />
-              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oletools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oletools" type="462c0819:PsiDirectoryNode" />
-              <item name="oletools" type="462c0819:PsiDirectoryNode" />
-              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
-              <item name="olefile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +136,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="740" y="84" width="1100" height="886" extended-state="0" />
+    <frame x="802" y="79" width="1100" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952918" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -168,14 +166,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oletools/olevba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="2132" column="57" lean-forward="true" selection-start-line="2132" selection-start-column="57" selection-end-line="2132" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oletools/README.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5155">
@@ -194,8 +184,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oletools/thirdparty/olefile/olefile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1725">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-5976">
+          <caret line="303" column="0" lean-forward="true" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#832#1" expanded="false" />
+            <element signature="e#834#899#0" expanded="false" />
+            <element signature="e#1191#1270#0" expanded="false" />
+            <element signature="e#11979#12057#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oletools/olevba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="1898" column="7" lean-forward="true" selection-start-line="1898" selection-start-column="7" selection-end-line="1898" selection-end-column="7" />
           <folding />
         </state>
       </provider>
