@@ -1,92 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179806ea-9734-43b1-ad04-fd28cfec9d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/INSTALL.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cheatsheet/oletools_cheatsheet.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cheatsheet/oletools_cheatsheet.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/install.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/DocVarDump.vba" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/README.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/README.rst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/Contribute.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/Contribute.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/Home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/Home.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/Install.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/Install.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/License.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/License.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/mraptor.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/mraptor.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/mraptor1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olebrowse.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olebrowse.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olebrowse1_menu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olebrowse2_stream.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olebrowse3_hexview.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oledir.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oledir.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oledir.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oleid.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oleid.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olemap.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olemap.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olemap1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olemap2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olemeta.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olemeta.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olemeta1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oleobj.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oleobj.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oletimes.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/oletimes.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olevba.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/olevba.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/pyxswf.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/pyxswf.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/rtfobj.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/oletools/doc/rtfobj.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/setup.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/howto_add_unittests.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/json/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/json/test_output.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/msodde/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/msodde/test_basic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/msodde/test_blacklist.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/msodde/test_csv.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/ooxml/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/ooxml/test_basic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/rtfobj/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/rtfobj/test_issue_185.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/basic/empty" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/basic/text" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/RTF-Spec-1.7.rtf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-in-csv.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test-from-office2003.doc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test-from-office2013-utf_16le-korean.doc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test-from-office2016.doc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test.docm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test.xlsb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test.xlsm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/dde-test.xlsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/harmless-clean-2003.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/harmless-clean.doc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/harmless-clean.docm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/harmless-clean.docx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/msodde/harmless-clean.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test-data/rtfobj/issue_185.rtf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test_utils/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test_utils/output_capture.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/test_utils/testdata_reader.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tests/unittest_template.py" afterPath="" />
-    </list>
+    <list default="true" id="179806ea-9734-43b1-ad04-fd28cfec9d78" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +10,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="olefile.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oletools/thirdparty/olefile/olefile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1725">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,6 +59,19 @@
               <item name="oletools" type="b2602c69:ProjectViewProjectNode" />
               <item name="oletools" type="462c0819:PsiDirectoryNode" />
               <item name="oletools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oletools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oletools" type="462c0819:PsiDirectoryNode" />
+              <item name="oletools" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oletools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oletools" type="462c0819:PsiDirectoryNode" />
+              <item name="oletools" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
+              <item name="olefile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,8 +139,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="740" y="84" width="1100" height="886" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952918" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952918" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -248,6 +188,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1275">
           <caret line="57" column="50" lean-forward="true" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oletools/thirdparty/olefile/olefile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1725">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
