@@ -23,8 +23,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="802" />
-    <option name="y" value="79" />
+    <option name="x" value="307" />
+    <option name="y" value="73" />
     <option name="width" value="1100" />
     <option name="height" value="886" />
   </component>
@@ -121,8 +121,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="802" y="79" width="1100" height="886" extended-state="0" />
-    <editor active="true" />
+    <frame x="307" y="73" width="1100" height="886" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952918" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -184,6 +183,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="1880" column="17" lean-forward="true" selection-start-line="1880" selection-start-column="17" selection-end-line="1880" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
